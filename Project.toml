@@ -1,0 +1,4 @@
+name = "CauchyOperators"
+uuid = "77a43252-5970-41da-a7f7-eb0a65a5304a"
+authors = ["Tom Trogdon <trogdon@uw.edu>"]
+version = "0.1.0"
